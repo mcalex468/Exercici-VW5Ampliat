@@ -1,21 +1,16 @@
-plugins {
+/** plugins {
     kotlin("jvm") version "1.9.21"
+    application
+    id("org.jetbrains.dokka") version "1.9.21"
 }
 
-group = "org.example"
-version = "1.0-SNAPSHOT"
-
-repositories {
-    mavenCentral()
+tasks.dokkaHtml.configure {
+    outputDirectory.set(buildDir.resolve("dokka"))
 }
 
 dependencies {
-    testImplementation("org.jetbrains.kotlin:kotlin-test")
+    testImplementation(kotlin("test"))
+    dokkaHtmlPlugin("org.jetbrains.dokka:kotlin-as-java-plugin:1.9.10")
 }
 
-tasks.test {
-    useJUnitPlatform()
-}
-kotlin {
-    jvmToolchain(21)
-}
+**/
