@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aa91950-2545-4226-95bd-8910e3c9f75b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConsoleColors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Utilities.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6aa91950-2545-4226-95bd-8910e3c9f75b" name="Changes" comment="Commit Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Funcions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Funcions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FuncionsVW.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FuncionsVW.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +27,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AlexMartin &lt;alex.martin.7e7@itb.cat&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -108,11 +108,40 @@
       <workItem from="1703242385126" duration="4520000" />
       <workItem from="1703247414822" duration="4941000" />
       <workItem from="1703270214439" duration="4747000" />
-      <workItem from="1703279632955" duration="1765000" />
+      <workItem from="1703279632955" duration="4637000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Final">
+      <option name="closed" value="true" />
+      <created>1703281451012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703281451012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Final">
+      <option name="closed" value="true" />
+      <created>1703281493333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703281493333</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Final">
+      <option name="closed" value="true" />
+      <created>1703281552937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703281552937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Final" />
   </component>
 </project>
