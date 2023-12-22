@@ -11,4 +11,5 @@ El projecte conte diverses pagines. Hi han 3 principals que contenen el Main.kt 
 #### Funcio Main()
 Dona la Benvinguda al programa, i es on es criden les altres funcions especifiques per que pugui funcionar l'app. Tambe hi ha codi Ascii.
 
-![GC]()
+![GC](https://github.com/mcalex468/Exercici-VW5Ampliat/blob/main/Screen%20Shot%2022-12-2023%20at%2023.00.png)
+
