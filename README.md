@@ -45,6 +45,6 @@ Es poden veure els diferents apartats i pàgines, les llibreries importades, el 
 #### Execucio 
 Es pot veure com funciona l'app en correcte estat, comptat la depreciacio o els anys que te la furgo. Tambe es poden veure els diferents colors, el Codi Ascii , entre altres .
 
-![]()
+![](https://github.com/mcalex468/Exercici-VW5Ampliat/blob/main/Screen%20Shot%2022-12-2023%20at%2023.31.png)
 
 ![]()
